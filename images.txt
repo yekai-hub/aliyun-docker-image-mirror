@@ -3,4 +3,4 @@ mysql:8.0.37
 redis:6.2.14
 halohub/halo:2.18
 amuguelove/weixin-md:1.0.0
-nacos:2.2.3
+nacos/nacos-server:2.0.3
