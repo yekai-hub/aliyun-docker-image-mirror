@@ -1,6 +1,16 @@
 nginx
 mysql:8.0.37
+mysql:5.7
 redis:6.2.14
 halohub/halo:2.18
 amuguelove/weixin-md:1.0.0
 nacos/nacos-server:2.0.3
+elasticsearch:7.14.2
+kibana:7.14.2
+logstash:7.14.2
+prom/mysqld-exporter
+oliver006/redis_exporter
+prom/prometheus:latest
+grafana/grafana
+apacherocketmq/rocketmq:4.5.0
+styletang/rocketmq-console-ng:latest
