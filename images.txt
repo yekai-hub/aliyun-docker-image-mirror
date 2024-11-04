@@ -16,3 +16,4 @@ apacherocketmq/rocketmq:4.5.0
 styletang/rocketmq-console-ng:latest
 truevoly/oracle-12c
 mcr.microsoft.com/mssql/server:2019-latest
+sonatype/nexus3
