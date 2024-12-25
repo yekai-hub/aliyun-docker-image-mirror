@@ -1,4 +1,3 @@
-apacherocketmq/rocketmq:4.8.0
 styletang/rocketmq-console-ng:latest
 xuxueli/xxl-job-admin:2.3.0
 minio/minio:latest
