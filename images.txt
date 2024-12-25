@@ -1,3 +1,4 @@
 styletang/rocketmq-console-ng:latest
 xuxueli/xxl-job-admin:2.3.0
 minio/minio:latest
+apache/rocketmq:4.8.0
